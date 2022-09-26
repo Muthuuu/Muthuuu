@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Muthu
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning Java and Selenium
